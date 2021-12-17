@@ -1,0 +1,13 @@
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.exe
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.deps.json
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.runtimeconfig.json
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.runtimeconfig.dev.json
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.dll
+C:\Source\ProgramChallenges\ProgramChallenges\bin\Debug\netcoreapp3.1\ProgramChallenges.pdb
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.csproj.AssemblyReference.cache
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.AssemblyInfoInputs.cache
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.AssemblyInfo.cs
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.csproj.CoreCompileInputs.cache
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.dll
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.pdb
+C:\Source\ProgramChallenges\ProgramChallenges\obj\Debug\netcoreapp3.1\ProgramChallenges.genruntimeconfig.cache
