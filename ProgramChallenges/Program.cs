@@ -17,6 +17,17 @@ namespace ProgramChallenges
             int length = 25;
             int currentLine = DetermindTheLineDuringDebugger(actions, breakpoints, length);
             Console.WriteLine("Current Line the debugger " + currentLine);
+
+            string word = "I like pi";
+            bool isPalindrome = Palindrome.DetermineIfWorkdIsPalindrome(word);
+            if (isPalindrome)
+            {
+                Console.WriteLine("This word " + word + " is a palindrome");
+            }
+            else 
+            {
+                Console.WriteLine("This word " + word + " is not a palindrome");
+            }
         }
 
         public static int FindNumberWithOddNumberOfZero(int[] numbers) 
